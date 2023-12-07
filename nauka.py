@@ -25,6 +25,7 @@ def dupawolowa(text,number):
 
 dupawolowa("jakas dupa wolowa numer:", 111)
 print("papapapapa!!!")
+print("Tutaj będziemy robili zmiany")
 
 
 def add_ten_to_age(age):
