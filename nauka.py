@@ -14,7 +14,7 @@ else:
 
 print ("Dupa jest czarna")
 print ("Dupa jest czarna")
-print ("Dupa jest czarna raz dwa trzy")
+print ("Dupa jest czarna raz dwa trzy")("
 print ("main branch")
 
 def dupawolowa(text,number):
@@ -23,7 +23,7 @@ def dupawolowa(text,number):
     print(text, number-2)
     print(text, number-1)
 
-dupawolowa("jakas dupa wolowa numer:", 111)("
+dupawolowa("jakas dupa wolowa numer:", 111)
 
 
 def add_ten_to_age(age):
