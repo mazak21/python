@@ -15,7 +15,7 @@ else:
 print ("Dupa jest czarna")
 print ("Dupa jest czarna")
 print ("Dupa jest czarna raz dwa trzy")
-print ("main branch
+print ("main branch")
 
 def dupawolowa(text,number):
     
